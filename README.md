@@ -36,7 +36,7 @@
 ### 🚀 Latest projects
 
 - **Remote Screenshot taking bot**
-  👉 [SSHook](https://github.com/skye7x/SSHook)
+  👉 [SP-CTF](https://github.com/skye7x/skyportal-ctf)
 - **Chrome Password Steal - AES decrypt and more...**
   👉 [CPS](https://github.com/skye7x/chromePassStealer)
 ---
