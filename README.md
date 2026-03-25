@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1f,50:1c0f3f,100:2a1b50&height=200&section=header&text=byteware1&fontSize=60&fontColor=6b6b8c&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1f,50:1c0f3f,100:2a1b50&height=200&section=header&text=skye7x&fontSize=60&fontColor=6b6b8c&animation=fadeIn&fontAlignY=38" />
 </p>
 <p align="center" target="_blank">
   <a href="https://skyportal.pl">
@@ -19,7 +19,7 @@
 
 <!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=byteware1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=skye7x&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=green" />
 </p>
@@ -36,9 +36,9 @@
 ### 🚀 Latest projects
 
 - **Remote Screenshot taking bot**
-  👉 [SSHook](https://github.com/byteware1/SSHook)
+  👉 [SSHook](https://github.com/skye7x/SSHook)
 - **Chrome Password Steal - AES decrypt and more...**
-  👉 [CPS](https://github.com/byteware1/chromePassStealer)
+  👉 [CPS](https://github.com/skye7x/chromePassStealer)
 ---
 <!-- ================= SOFTWARE STACK ================= -->
 <div align="center">
@@ -54,29 +54,29 @@
   </p>
   <h3>🧬 Reverse Engineering</h3>
   <p>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/binary.png" height="42"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/Ghidra_logo.svg" height="42"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/x64.png" height="42"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/dotnet-svgrepo-com.svg" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/binary.png" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/Ghidra_logo.svg" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/x64.png" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/dotnet-svgrepo-com.svg" height="42"/>
   </p>
   <!-- SECURITY -->
   <h3>🛡️ Security / Networking (few)</h3>
   <p>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/Wireshark_icon.svg" height="42"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/sitelogo-nmap.svg" height="42"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/burpsuite-security-software-svgrepo-com.svg" height="42"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/icons8-metasploit-96.png" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/Wireshark_icon.svg" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/sitelogo-nmap.svg" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/burpsuite-security-software-svgrepo-com.svg" height="42"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/icons8-metasploit-96.png" height="42"/>
   </p>
   <h3>🖥️ OS / Virtualization</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=arch" height="48"/>
     <img src="https://skillicons.dev/icons?i=windows" height="48"/>
-    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/VirtualBox_2024_Logo.svg" height="48"/>
+    <img src="https://github.com/skye7x/skye7x/blob/main/assets/icons/VirtualBox_2024_Logo.svg" height="48"/>
   </p>
 </div>
   </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/byteware1-5A5475?style=for-the-badge&logo=github&logoColor=white" alt="Hi, I'm byteware1" />
+  <img src="https://img.shields.io/badge/skye7x-5A5475?style=for-the-badge&logo=github&logoColor=white" alt="Hi, I'm skye7x" />
 </p>
 
 
