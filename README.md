@@ -10,11 +10,11 @@
 </p>
 
 <h3 align="center">
-  💻 Cybersecurity • Reverse Engineering • Low-level Development
+  Cybersecurity • Dev
 </h3>
 
 <p align="center">
-  🐍 Python • ⚙️ C++ • 🧠 C# • 🖥️ OS Internals • 🛡️ Malware Analysis
+  Python • C++ • C# • OS Internals • JavaScript { NextJS, NodeJS }
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=skye7x&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff99" />
-  <img src="https://img.shields.io/badge/Interest-Reverse%20Engineering-5c2d91?style=for-the-badge" />
 </p>
 
 ---
@@ -48,4 +47,4 @@
 → Building projects for Linux & Windows environments
 → Working with APIs, automation & self-hosted services
 → Learning secure coding, authentication flows & exploit mitigation
-→ Curious about red teaming methodologies & vulnerability research
+→ Red teaming methodologies & vulnerability research
