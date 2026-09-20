@@ -31,19 +31,3 @@
   <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
----
-
-# About Me
-
-```txt
-→ Cybersecurity & offensive security enthusiast
-→ Reverse engineering, binary exploitation & malware analysis
-→ Low-level / systems programming (C / C++ / ASM basics)
-→ Learning networking, TCP/IP internals & web application security
-→ Exploring OSINT, reconnaissance & digital forensics
-→ Backend / full-stack developer focused on Node.js, Next.js & C#
-→ Interested in Linux internals, embedded systems & hardware hacking
-→ Building projects for Linux & Windows environments
-→ Working with APIs, automation & self-hosted services
-→ Learning secure coding, authentication flows & exploit mitigation
-→ Red teaming methodologies & vulnerability research
