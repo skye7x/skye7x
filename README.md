@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1f,50:1c0f3f,100:2a1b50&height=220&section=header&text=skye7x&fontSize=60&fontColor=8a8ab0&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="center">
-  <a href="https://skyportal.pl" target="_blank">
-    <img src="https://skyportal.pl/assets/logo-extended-C0dbjLQq.png" alt="Skyportal logo" width="170">
-  </a>
-</p>
 
 <h3 align="center">
   Cybersecurity • Dev
